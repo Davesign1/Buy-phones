@@ -1,2 +1,0 @@
-# Buy-phones
- frontend
